@@ -25,7 +25,7 @@ Estándar SPDX-MIT: Transparencia total y cumplimiento de licencias para un port
 
 Consultar el Corazón de América: En la pestaña Read Contract, usa consultarPlato (ID 1 para la Sopa Paraguaya) para verificar la base de harina registrada.
 
-Registrar Tradición: En la pestaña Write Contract, usa registrarPlato para añadir joyas como "Chipa" (Harina: Almidón de Mandioca) o "Mbeju" (Harina: Almidón y Queso).
+Registrar Tradición: En la pestaña Write Contract, usa registrarPlato para añadir joyas como "Chipa" (Harina: Almidón de Mandioca) o "Mbeju" (Harina: Almidón y Queso)
 
 Votación Pública: Califica tus sabores paraguayos favoritos mediante el sistema de Likes y Dislikes.
 
